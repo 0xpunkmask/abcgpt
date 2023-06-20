@@ -1,7 +1,7 @@
 <h1 align="center"><b>ChatGPT</b></h1>
 
 <p align="center">
-    <a href="https://bettergpt.chat" target="_blank"><img src="public/apple-touch-icon.png" alt="CHATGPT" width="100" /></a>
+    <a href="https://dyfil.com" target="_blank"><img src="public/apple-touch-icon.png" alt="CHATGPT" width="100" /></a>
 </p>
 
 <h4 align="center"><b>FREE</b></h4>
